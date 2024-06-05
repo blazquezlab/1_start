@@ -17,9 +17,9 @@ Entry-point to all the repos and documents for the lab members. Here you will fi
   - generate and filter event-tables starting from VAST-tools FULL_INCLUSION tables
 - [`Lexogen Nextflow`](https://github.com/a-hr/lexogen_pipeline): Nextflow-based pipeline to QC, demultiplex, align (STAR), deduplicate and quantify (featureCounts) Illumina reads with barcodes and UMIs. It can be run eihther on a local machine (EPI2ME app) or on a cluster (SLURM).
 - [`Plasmidsaurus Worflow`](https://github.com/a-hr/plasmidsaurus_workflow): terminal-based (Bash) script to QC, align and plot (sashimis) FASTQs from Plasmidsaurus.
-- [`Plasmidsaurus Nextflow`](https://github.com/a-hr/plasmidsaurus_pipeline): same as the above, but Nextflow-based (i.e. EPI2ME app or SLURM).
+- [`Plasmidsaurus Nextflow`](https://github.com/a-hr/plasmidsaurus_nextflow): same as the above, but Nextflow-based (i.e. EPI2ME app or SLURM).
 - [`Basecalling`](https://github.com/a-hr/basecalling): utility scripts to basecall Nanopore FAST5s with Guppy or Dorado basecallers.
-- [`VIVE Nextflow`](https://github.com/a-hr/vive-nextflow): Nextflow-based pipeline to process viral RNA for the VIVE Biotech project.
+- [`VIVE Pipeline`](https://github.com/a-hr/vive-pipeline): Nextflow-based pipeline to process viral RNA for the VIVE Biotech project.
 - [`Illumina -> Nanopore`](https://github.com/a-hr/illumina2nanopore): Nextflow-based pipeline to process Nanopore reads prepared with Illumina kits (Illumina adapters, UMIs, etc.).
 
 ## Guides
