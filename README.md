@@ -19,7 +19,7 @@ Entry-point to all the repos and documents for the lab members. Here you will fi
 - [`Plasmidsaurus Worflow`](https://github.com/a-hr/plasmidsaurus_workflow): terminal-based (Bash) script to QC, align and plot (sashimis) FASTQs from Plasmidsaurus.
 - [`Plasmidsaurus Nextflow`](https://github.com/a-hr/plasmidsaurus_pipeline): same as the above, but Nextflow-based (i.e. EPI2ME app or SLURM).
 - [`Basecalling`](https://github.com/a-hr/basecalling): utility scripts to basecall Nanopore FAST5s with Guppy or Dorado basecallers.
-- [`VIVE Pipeline`](https://github.com/a-hr/vive-pipeline): Nextflow-based pipeline to process viral RNA for the VIVE Biotech project.
+- [`VIVE Nextflow`](https://github.com/a-hr/vive-nextflow): Nextflow-based pipeline to process viral RNA for the VIVE Biotech project.
 - [`Illumina -> Nanopore`](https://github.com/a-hr/illumina2nanopore): Nextflow-based pipeline to process Nanopore reads prepared with Illumina kits (Illumina adapters, UMIs, etc.).
 
 ## Guides
