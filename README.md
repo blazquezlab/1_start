@@ -21,11 +21,13 @@ Entry-point to all the repos and documents for the lab members. Here you will fi
 - [`Basecalling`](https://github.com/a-hr/basecalling): utility scripts to basecall Nanopore FAST5s with Guppy or Dorado basecallers.
 - [`VIVE Pipeline`](https://github.com/a-hr/vive-pipeline): Nextflow-based pipeline to process viral RNA for the VIVE Biotech project.
 - [`Illumina -> Nanopore`](https://github.com/a-hr/illumina2nanopore): Nextflow-based pipeline to process Nanopore reads prepared with Illumina kits (Illumina adapters, UMIs, etc.).
+- [`rMATS pipeline`](https://github.com/a-hr/rmats_pipeline): BASH based scripts to run multiple rMATS contrasts in parallel using SLURM array jobs.
+
 
 ## Guides
 
 - [`Atlas`](https://github.com/blazquezlab/1-Access-to-Atlas-and-Instructions): instructions on how to use the cluster.
-- [`Conda](https://github.com/blazquezlab/conda_envs): instructions on how to create and manage Conda environments.
+- [`Conda`](https://github.com/blazquezlab/conda_envs): instructions on how to create and manage Conda environments.
 - [`Bind FASTQs`](https://github.com/a-hr/binding_FASTQs): instructions on how to bind FASTQs coming from the same sample.
 - [`Download EGA`](https://github.com/a-hr/download_pyega): instructions on how to download files from the EGA repository using their API.
-- [`Custom Reference Files`](https://github.com/a-hr/custom_references): intructions on how to create custom FASTA, GTF and BED files for non-standard genomes.
+- [`Custom Reference Files`](https://github.com/a-hr/custom_references): intructions on how to create custom FASTA, GTF and BED files for non-standard genomes. Additionally, it includes instructions on how to create IGV `.bam` lists to visualize multiple samples at once.
