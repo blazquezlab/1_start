@@ -31,3 +31,4 @@ Entry-point to all the repos and documents for the lab members. Here you will fi
 - [`Bind FASTQs`](https://github.com/a-hr/binding_FASTQs): instructions on how to bind FASTQs coming from the same sample.
 - [`Download EGA`](https://github.com/a-hr/download_pyega): instructions on how to download files from the EGA repository using their API.
 - [`Custom Reference Files`](https://github.com/a-hr/custom_references): intructions on how to create custom FASTA, GTF and BED files for non-standard genomes. Additionally, it includes instructions on how to create IGV `.bam` lists to visualize multiple samples at once.
+- [`Adaptive Sampling Guide`](https://github.com/a-hr/adaptive_sampling): step-by-step guide on how to prepare an adaptive sampling experiment on the P2Solo.
