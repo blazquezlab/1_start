@@ -8,7 +8,7 @@ Entry-point to all the repos and documents for the lab members. Here you will fi
 
 - [`R utils`](https://github.com/blazquezlab/R-utils): a variety of R scripts for data visualization (boxplots, heatmaps, PCA, UMAP...) of **differential expression** and **alternative splicing** summary tables (TPMs and events).
 - [`sashimi plots`](https://github.com/blazquezlab/sashimiplots): terminal-based (Bash) script to generate grouped sashimi plots from a list of events and BAM files.
-- - [`MaxEntScan analysis`](https://github.com/blazquezlab/MaxEntScan): Instructions to get MaxEntScan scores programatically by perl scripts
+- [`MaxEntScan analysis`](https://github.com/blazquezlab/MaxEntScan): Instructions to get MaxEntScan scores programatically by perl scripts
 
 
 ## Automated Workflows
