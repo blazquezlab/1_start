@@ -1,13 +1,11 @@
 # Start
 
-> [Álvaro Herrero Reiriz](https://github.com/blazquezlab/)
-
 Entry-point to all the repos and documents for the lab members. Here you will find the links to all the relevant scripts, workflows and guides.
 
 ## Downstream Analysis Scripts
 
 - [`R utils`](https://github.com/blazquezlab/R-utils): a variety of R scripts for data visualization (boxplots, heatmaps, PCA, UMAP...) of **differential expression** and **alternative splicing** summary tables (TPMs and events).
-- [`sashimi plots`](https://github.com/blazquezlab/sashimiplots): terminal-based (Bash) script to generate grouped sashimi plots from a list of events and BAM files.
+- [`sashimi plots`](https://github.com/meryhidalgo/sashimiplots): terminal-based (Bash) script to generate grouped sashimi plots from a list of events and BAM files.
 - [`MaxEntScan analysis`](https://github.com/blazquezlab/MaxEntScan): Instructions to get MaxEntScan scores programatically by perl scripts
 
 
