@@ -31,3 +31,4 @@ Entry-point to all the repos and documents for the lab members. Here you will fi
 - [`Download EGA`](https://github.com/blazquezlab/download_pyega): instructions on how to download files from the EGA repository using their API.
 - [`Custom Reference Files`](https://github.com/blazquezlab/custom_references): intructions on how to create custom FASTA, GTF and BED files for non-standard genomes. Additionally, it includes instructions on how to create IGV `.bam` lists to visualize multiple samples at once.
 - [`Adaptive Sampling Guide`](https://github.com/blazquezlab/adaptive_sampling): step-by-step guide on how to prepare an adaptive sampling experiment on the P2Solo.
+- [`Node connection in HYPERION`](https://github.com/blazquezlab/node_connection): intructions on how to connect to a specific node in the cluster in order to launch works dynamically.
