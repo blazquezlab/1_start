@@ -21,6 +21,7 @@ Entry-point to all the repos and documents for the lab members. Here you will fi
 - [`VIVE Pipeline`](https://github.com/blazquezlab/vive-pipeline): Nextflow-based pipeline to process viral RNA for the VIVE Biotech project.
 - [`Illumina -> Nanopore`](https://github.com/blazquezlab/illumina2nanopore): Nextflow-based pipeline to process Nanopore reads prepared with Illumina kits (Illumina adapters, UMIs, etc.).
 - [`rMATS pipeline`](https://github.com/blazquezlab/rmats_pipeline): BASH based scripts to run multiple rMATS contrasts in parallel using SLURM array jobs.
+- [`ggsashimi Nextflow`](https://github.com/blazquezlab/ggsashimi_nextflow): Nextflow-based pipeline to generate grouped sashimi plots in both cluster and local. 
 
 
 ## Guides
